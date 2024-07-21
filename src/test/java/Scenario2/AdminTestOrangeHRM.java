@@ -125,7 +125,7 @@ public class AdminTestOrangeHRM extends BaseClassOrangeHRM{
 		Assert.assertTrue(totalRecords > 0, "No records found for enabled");
 		
 		//message for confirmation
-		System.out.println("Fourth test case completed!");
+		System.out.println("Fourth test case completed successfully!");
 		
 		
 		
